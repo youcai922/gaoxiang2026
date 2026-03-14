@@ -1,0 +1,13 @@
+{
+  "env": {
+    "ANTHROPIC_MODEL": "glm-4.7"
+  },
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(git remote:*)"
+    ]
+  }
+}
